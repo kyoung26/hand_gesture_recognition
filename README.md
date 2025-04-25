@@ -14,3 +14,6 @@ This is a hand gesture recognition application using Google's mediapipe API for 
 
 ## How to run
 Application is ran through main.ipynb file. 
+
+### Source
+- https://youtu.be/doDUihpj6ro?si=iE3TkCC0WYxF-fnv
